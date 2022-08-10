@@ -1,6 +1,16 @@
 # Tech Specs
 This repo publicly lays out how we do things at Stating.io.
 
+## Getting Started
+
+### Setting up your development environment
+
+// Running Tests
+
+// Writing Tests
+
+## 
+
 // include layout for react components.
 
 
@@ -16,5 +26,8 @@ This repo publicly lays out how we do things at Stating.io.
 // include basic layout for current node setup.
 
 
+## Deploying to Production
+Stating is currently deployed on DigitalOcean. It consists of multiple apps, all running within one droplet with an database on another machine. 
 
-// include basic steps for deployment.
+### Continuous Integration and Continuous Deployment
+// with CircleCI.
